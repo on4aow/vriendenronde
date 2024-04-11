@@ -1,0 +1,123 @@
+|INMELDINGEN|CALL|VOORNAAM|GEMEENTE|LID|
+|:---|:---|:---|:---|:---|
+| 51 | <a href="https://www.qrz.com/db/on3ure">ON3URE</a> | Joeri | Merchtem | X |
+| 51 | <a href="https://www.qrz.com/db/on2rvm">ON2RVM</a> | Rudiger | Bornem | X |
+| 50 |ON7ND|Jozef|Lebbeke|X|
+| 50 | <a href="https://www.qrz.com/db/on3fla">ON3FLA</a> | Guido | Mechelen |  |
+| 50 | <a href="https://www.qrz.com/db/on3ei">ON3EI</a> | Elsie | Aalst |  |
+| 50 | <a href="https://www.qrz.com/db/on3mod">ON3MOD</a> | Modest | Aalst |  |
+| 49 | <a href="https://www.qrz.com/db/on7im">ON7IM</a> | Robert | Opwijk | X |
+| 47 | <a href="https://www.qrz.com/db/on8ma">ON8MA</a> | Georges | Zottegem | X |
+| 45 | <a href="https://www.qrz.com/db/on4dlx">ON4DLX</a> | Etienne | Steenhuffel | X |
+| 41 | <a href="https://www.qrz.com/db/on4cjg">ON4CJG</a> | Jeromie | Kuurne |  |
+| 40 | <a href="https://www.qrz.com/db/on5avm">ON5AVM</a> | Johan | Opwijk |  |
+| 37 | <a href="https://www.qrz.com/db/on3ec">ON3EC</a> | Peter | Haaltert-Oost-Vlaanderen |  |
+| 33 | <a href="https://www.qrz.com/db/on3pv">ON3PV</a> | Patrick | Tisselt |  |
+| 30 | <a href="https://www.qrz.com/db/on4cfo">ON4CFO</a> | Wim | Grimbergen |  |
+| 29 | <a href="https://www.qrz.com/db/on7fab">ON7FAB</a> | Freddy | Erpe-Mere |  |
+| 28 | <a href="https://www.qrz.com/db/on3lst">ON3LST</a> | Luc | Puurs |  |
+| 28 | <a href="https://www.qrz.com/db/on6wj">ON6WJ</a> | Jos | Dendermonde | X |
+| 28 | <a href="https://www.qrz.com/db/on8cw">ON8CW</a> | Croes | Steenokkerzeel |  |
+| 23 | <a href="https://www.qrz.com/db/on3kev">ON3KEV</a> | Kevin | Sint-Martens-Lierde |  |
+| 23 | <a href="https://www.qrz.com/db/on4pyl">ON4PYL</a> | Erich | Temse |  |
+| 23 | <a href="https://www.qrz.com/db/on2lvc">ON2LVC</a> | Luc | Buggenhout |  |
+| 21 |ON7DVJ|Jean|Pierre||
+| 19 | <a href="https://www.qrz.com/db/on3fw">ON3FW</a> | Freddy | Herent |  |
+| 18 | <a href="https://www.qrz.com/db/on5nv">ON5NV</a> | Alex | Antwerpen-Deurne |  |
+| 18 | <a href="https://www.qrz.com/db/on3ona">ON3ONA</a> | Dirk | Eeklo |  |
+| 17 | <a href="https://www.qrz.com/db/on5oc">ON5OC</a> | Kris | Dendermonde |  |
+| 17 | <a href="https://www.qrz.com/db/on9ra">ON9RA</a> | Andr&Atilde;&copy; | Willebroek |  |
+| 13 | <a href="https://www.qrz.com/db/on7avl">ON7AVL</a> | Luc | Lebbeke | X |
+| 13 | <a href="https://www.qrz.com/db/on4it">ON4IT</a> | Dimitri | Herdersem-Aalst | X |
+| 13 | <a href="https://www.qrz.com/db/on5rgi">ON5RGI</a> | Reginald | Zele |  |
+| 12 |ON6JR|Johnny|Opwijk|X|
+| 12 | <a href="https://www.qrz.com/db/on6lc">ON6LC</a> | Louis | Meise |  |
+| 11 | <a href="https://www.qrz.com/db/on3ccc">ON3CCC</a> | Peter | Gent |  |
+| 9 | <a href="https://www.qrz.com/db/on7ace">ON7ACE</a> | Lieven | Zwevezele |  |
+| 9 | <a href="https://www.qrz.com/db/on2bdj">ON2BDJ</a> | Willy | Asse |  |
+| 9 | <a href="https://www.qrz.com/db/on3buv">ON3BUV</a> | Benny | Opwijk |  |
+| 8 | <a href="https://www.qrz.com/db/on2bdi">ON2BDI</a> | Bert | Haacht |  |
+| 8 | <a href="https://www.qrz.com/db/on3wd">ON3WD</a> | Marc | Mechelen |  |
+| 8 | <a href="https://www.qrz.com/db/on1cb">ON1CB</a> | Erwin | Overmere |  |
+| 7 | <a href="https://www.qrz.com/db/on4aio">ON4AIO</a> | Ludo | Sint-Amands |  |
+| 7 | <a href="https://www.qrz.com/db/on4gk">ON4GK</a> | Giovani | Mol |  |
+| 7 | <a href="https://www.qrz.com/db/on4qx">ON4QX</a> | Herman | Buggenhout | X |
+| 7 | <a href="https://www.qrz.com/db/on8vi">ON8VI</a> | Iwan | Bornem |  |
+| 7 | <a href="https://www.qrz.com/db/on5knt">ON5KNT</a> | Rudy | Zele |  |
+| 6 | <a href="https://www.qrz.com/db/on7gy">ON7GY</a> | Roger | Opwijk |  |
+| 6 | <a href="https://www.qrz.com/db/on4dpm">ON4DPM</a> | Daniel | Malderen | X |
+| 6 | <a href="https://www.qrz.com/db/on4bdc">ON4BDC</a> | Gunther | Halle |  |
+| 5 | <a href="https://www.qrz.com/db/on3stq">ON3STQ</a> | Stefaan | Haaltert | X |
+| 5 | <a href="https://www.qrz.com/db/on7kri">ON7KRI</a> | Kris | Wetteren |  |
+| 5 | <a href="https://www.qrz.com/db/on6lx">ON6LX</a> | Lex | Lochristi-zaffelare |  |
+| 5 | <a href="https://www.qrz.com/db/on9sd">ON9SD</a> | Donald | Laarne |  |
+| 5 | <a href="https://www.qrz.com/db/on4rf">ON4RF</a> | Filippe | Lokeren |  |
+| 5 | <a href="https://www.qrz.com/db/on4ckm">ON4CKM</a> | Cedric | Wemmel |  |
+| 4 | <a href="https://www.qrz.com/db/on3jg">ON3JG</a> | Claude | Buggenhout |  |
+| 4 | <a href="https://www.qrz.com/db/on4clf">ON4CLF</a> | Theo | Zottegem |  |
+| 4 | <a href="https://www.qrz.com/db/on4lm">ON4LM</a> | Marc | Wieze | X |
+| 4 | <a href="https://www.qrz.com/db/on2aco">ON2ACO</a> | Thierry | Wingene |  |
+| 4 | <a href="https://www.qrz.com/db/on3stl">ON3STL</a> | Steven | Londerzeel |  |
+| 4 | <a href="https://www.qrz.com/db/on7xb">ON7XB</a> | Jozef | Oud-Turnhout |  |
+| 4 | <a href="https://www.qrz.com/db/on4cba">ON4CBA</a> | Andre | Dendermonde | X |
+| 4 | <a href="https://www.qrz.com/db/on3pvc">ON3PVC</a> | Pascal | Opwijk | X |
+| 4 | <a href="https://www.qrz.com/db/on6yo">ON6YO</a> | Daniel | Opwijk |  |
+| 3 | <a href="https://www.qrz.com/db/on7cob">ON7COB</a> | Koen | Asse | X |
+| 3 | <a href="https://www.qrz.com/db/on3daf">ON3DAF</a> | Christian | Westmalle |  |
+| 3 | <a href="https://www.qrz.com/db/on8jj">ON8JJ</a> | Robert | Berendrecht |  |
+| 3 | <a href="https://www.qrz.com/db/on5rd">ON5RD</a> | Johan | Moen |  |
+| 3 | <a href="https://www.qrz.com/db/on5pdv">ON5PDV</a> | Paul | Londerzeel |  |
+| 2 | <a href="https://www.qrz.com/db/on6wf">ON6WF</a> | Stefan | Baasrode-Dmonde | X |
+| 2 | <a href="https://www.qrz.com/db/on3ecr">ON3ECR</a> | Eddy | Moortsele |  |
+| 2 | <a href="https://www.qrz.com/db/df4ic">DF4IC</a> | Erik | Ringe |  |
+| 2 | <a href="https://www.qrz.com/db/on2dy">ON2DY</a> | Steve | Zandhoven |  |
+| 2 | <a href="https://www.qrz.com/db/on5ob">ON5OB</a> | Bernard | Oudenaarde |  |
+| 2 | <a href="https://www.qrz.com/db/on8bl">ON8BL</a> | Beni | Kapelle-Op-Den-Bos |  |
+| 2 | <a href="https://www.qrz.com/db/on5ym">ON5YM</a> | Ivo | Knokke-Heist |  |
+| 2 | <a href="https://www.qrz.com/db/on5rs">ON5RS</a> | Severine | Lokeren |  |
+| 2 | <a href="https://www.qrz.com/db/on7dan">ON7DAN</a> | Daniel | Buizingen |  |
+| 2 | <a href="https://www.qrz.com/db/on5ib">ON5IB</a> | Peter | Denderbelle | X |
+| 2 | <a href="https://www.qrz.com/db/on5sel">ON5SEL</a> | Luc | Bonheiden |  |
+| 2 | <a href="https://www.qrz.com/db/on6ix">ON6IX</a> | Raff | Loenhout-Zip |  |
+| 1 |ON7KNT|Rudy|Zele||
+| 1 | <a href="https://www.qrz.com/db/on7hm">ON7HM</a> | Marc | Tollembeek |  |
+| 1 | <a href="https://www.qrz.com/db/on5rog">ON5ROG</a> | Roger | Zwijnaarde |  |
+| 1 | <a href="https://www.qrz.com/db/on3bb">ON3BB</a> | Jose | Humbeek |  |
+| 1 | <a href="https://www.qrz.com/db/on1dgr">ON1DGR</a> | Patrick | Appels |  |
+| 1 | <a href="https://www.qrz.com/db/on3tnt">ON3TNT</a> | Marnik | Eeklo |  |
+| 1 | <a href="https://www.qrz.com/db/on3crt">ON3CRT</a> | Patrick | Laarne-Oost-Vlaanderen |  |
+| 1 | <a href="https://www.qrz.com/db/on3vhl">ON3VHL</a> | Luc | Buggenhout | X |
+| 1 | <a href="https://www.qrz.com/db/on3qrp">ON3QRP</a> | Frank | Mechelen |  |
+| 1 | <a href="https://www.qrz.com/db/on4app">ON4APP</a> | Patrick | Oost-Vl |  |
+| 1 | <a href="https://www.qrz.com/db/on3et">ON3ET</a> | Koen | Stkruis-Brugge |  |
+| 1 | <a href="https://www.qrz.com/db/on7lm">ON7LM</a> | Marc-andr&Atilde;&copy; | Brussels |  |
+| 1 | <a href="https://www.qrz.com/db/on3abr">ON3ABR</a> | Rik | Denderhoutem |  |
+| 1 |ON3VCL|Leon|Kalmthout||
+| 1 | <a href="https://www.qrz.com/db/on4cgc">ON4CGC</a> | Huvaere | Meulebeke |  |
+| 1 | <a href="https://www.qrz.com/db/on3phb">ON3PHB</a> | Bart | Lebbeke-Oost-Vlaanderen |  |
+| 1 | <a href="https://www.qrz.com/db/on3tgn">ON3TGN</a> | Johan | Erpe-Mere |  |
+| 1 | <a href="https://www.qrz.com/db/on2trx">ON2TRX</a> | Jan | Nijlen |  |
+| 1 | <a href="https://www.qrz.com/db/on5ce">ON5CE</a> | Mark | Londerzeel-Vb |  |
+| 1 | <a href="https://www.qrz.com/db/on2pj">ON2PJ</a> | Peter | Tielt |  |
+| 1 | <a href="https://www.qrz.com/db/on2wg">ON2WG</a> | William | Sint-Niklaas |  |
+| 1 |ON3AWI|Andre|Tisselt||
+| 1 | <a href="https://www.qrz.com/db/on7abt">ON7ABT</a> | Michel | Oostrozebeke |  |
+| 1 | <a href="https://www.qrz.com/db/on3tle">ON3TLE</a> | Jurgen | Opwijk | X |
+| 1 |ON2DBI|Bert|Haacht||
+| 1 | <a href="https://www.qrz.com/db/on4arl">ON4ARL</a> | Leo | Beernem |  |
+| 1 |ON4AKO|August|Opwijk|X|
+| 1 | <a href="https://www.qrz.com/db/or79clm">OR79CLM</a> | Radio | Knokke-Heist |  |
+| 1 | <a href="https://www.qrz.com/db/on3jvk">ON3JVK</a> | Jan | Leuven |  |
+| 1 | <a href="https://www.qrz.com/db/on4jes">ON4JES</a> | Jess | Watou |  |
+| 1 | <a href="https://www.qrz.com/db/on4yvm">ON4YVM</a> | Yvan | Zottegem-grotenberge |  |
+| 1 | <a href="https://www.qrz.com/db/on7xy">ON7XY</a> | Roger | Opwijk | X |
+| 1 | <a href="https://www.qrz.com/db/on1pl">ON1PL</a> | Peter | Schellebelle |  |
+| 1 | <a href="https://www.qrz.com/db/on3mvc">ON3MVC</a> | Christ | Moorsele |  |
+| 1 | <a href="https://www.qrz.com/db/on4cjk">ON4CJK</a> | Jose | Egem |  |
+| 1 |ON3PAJ|Patrick|||
+| 1 | <a href="https://www.qrz.com/db/on6rj">ON6RJ</a> | Jan | Holsbeek |  |
+| 1 | <a href="https://www.qrz.com/db/on3rum">ON3RUM</a> | Roger | Harelbeke |  |
+| 1 | <a href="https://www.qrz.com/db/on3jil">ON3JIL</a> | Jean-luc | Zwevegem |  |
+| 1 | <a href="https://www.qrz.com/db/on4jco">ON4JCO</a> | Johan | Halle |  |
+| 1 | <a href="https://www.qrz.com/db/on5sm">ON5SM</a> | Marc | Torhout |  |
+| 1 | <a href="https://www.qrz.com/db/on3cl">ON3CL</a> | Johan | Bornem |  |
