@@ -5,7 +5,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 ## Log
 
-### **03 April 2024** - Host/Logger ON6URE - **Editie 207**
+### **11 April 2024** - Host/Logger ON6URE - **Editie 207**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/**on6ure**))
 * **ON4DLX** Etienne  ([qrz](https://www.qrz.com/db/**on4dlx**))
 * **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/**on3tnt**))
