@@ -22,7 +22,6 @@
 | 30 | <a href="https://www.qrz.com/db/on3ana">ON3ANA</a> | Zero | Non |  |
 | 29 |ONL12752|Koen|Sint-Amands|X|
 | 29 |ONL08999|Freddy|Erpe-Mere
-||
 | 28 | <a href="https://www.qrz.com/db/on5nv">ON5NV</a> | Alex | Antwerpen-Deurne |  |
 | 27 | <a href="https://www.qrz.com/db/on3pvc">ON3PVC</a> | Pascal | Opwijk | X |
 | 25 | <a href="https://www.qrz.com/db/on4cfo">ON4CFO</a> | Wim | Grimbergen |  |
@@ -98,7 +97,6 @@
 | 2 | <a href="https://www.qrz.com/db/on4gk">ON4GK</a> | Giovani | Mol |  |
 | 1 | <a href="https://www.qrz.com/db/on4lm">ON4LM</a> | Marc | Wieze | X |
 | 1 |OS3EC|Peter_Haaltert|
-||
 | 1 | <a href="https://www.qrz.com/db/on6wf">ON6WF</a> | Stefan | Baasrode-Dmonde | X |
 | 1 | <a href="https://www.qrz.com/db/on7ace">ON7ACE</a> | Lieven | Zwevezele |  |
 | 1 |ON4AYD|Jose|Tielt||

@@ -87,7 +87,6 @@
 | 1 | <a href="https://www.qrz.com/db/on7wi">ON7WI</a> | William | Kessel-Lo |  |
 | 1 | <a href="https://www.qrz.com/db/on4ol">ON4OL</a> | Jacques | Grimbergen |  |
 | 1 |ON3MOM|Mark|Keerbergen
-||
 | 1 | <a href="https://www.qrz.com/db/on5ib">ON5IB</a> | Peter | Denderbelle | X |
 | 1 | <a href="https://www.qrz.com/db/on3jg">ON3JG</a> | Claude | Buggenhout |  |
 | 1 | <a href="https://www.qrz.com/db/on6sn">ON6SN</a> | Geert | Be-Herdersem-Aalst |  |

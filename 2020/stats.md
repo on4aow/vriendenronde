@@ -5,7 +5,6 @@
 | 28 |ON6JR|Johnny|Opwijk|X|
 | 26 | <a href="https://www.qrz.com/db/on3tnt">ON3TNT</a> | Marnik | Eeklo |  |
 | 26 |ON7DVJ|Jean-Pierre|Buggenhout
-||
 | 26 | <a href="https://www.qrz.com/db/on2rvm">ON2RVM</a> | Rudiger | Bornem | X |
 | 22 | <a href="https://www.qrz.com/db/on4ata">ON4ATA</a> | Raf | Adegem |  |
 | 21 | <a href="https://www.qrz.com/db/on2lvc">ON2LVC</a> | Luc | Buggenhout |  |
@@ -41,10 +40,8 @@
 | 4 |ON7ND|Jozef|Lebbeke|X|
 | 4 | <a href="https://www.qrz.com/db/on8cw">ON8CW</a> | Croes | Steenokkerzeel |  |
 | 4 |ONL12749|Pascal|Opwijk
-||
 | 4 | <a href="https://www.qrz.com/db/on3pez">ON3PEZ</a> | Patrick | Zelzate |  |
 | 4 |ONL08999|Freddy|Erpe-Mere
-||
 | 3 | <a href="https://www.qrz.com/db/on3qrp">ON3QRP</a> | Frank | Mechelen |  |
 | 3 |ONL11710|Leslie|Denderleeuw|X|
 | 3 | <a href="https://www.qrz.com/db/on2jlb">ON2JLB</a> | Jony | Brussel | X |
@@ -53,12 +50,10 @@
 | 3 | <a href="https://www.qrz.com/db/on5pdv">ON5PDV</a> | Paul | Londerzeel |  |
 | 3 | <a href="https://www.qrz.com/db/on8kw">ON8KW</a> | Kurt | Moorsel | X |
 | 3 |ONLKOEN|Koen|Sint-Amands
-||
 | 2 | <a href="https://www.qrz.com/db/on4app">ON4APP</a> | Patrick | Oost-Vl |  |
 | 2 | <a href="https://www.qrz.com/db/on3vhl">ON3VHL</a> | Luc | Buggenhout | X |
 | 2 | <a href="https://www.qrz.com/db/on3hr">ON3HR</a> | Ruth | Reet |  |
 | 2 |ON6UV|Achille|Roosdaal
-||
 | 2 | <a href="https://www.qrz.com/db/on5ig">ON5IG</a> | Ignace | Oostakker |  |
 | 2 | <a href="https://www.qrz.com/db/on6sn">ON6SN</a> | Geert | Be-Herdersem-Aalst |  |
 | 1 | <a href="https://www.qrz.com/db/on3sw">ON3SW</a> | Simon | Evergem |  |
@@ -68,7 +63,6 @@
 | 1 | <a href="https://www.qrz.com/db/on7cob">ON7COB</a> | Koen | Asse | X |
 | 1 | <a href="https://www.qrz.com/db/ot4care">OT4CARE</a> | On4wra | Kortrijkstraat-Wortegem-Petegem |  |
 | 1 |ON3DVJ|Jean-Pierre|Buggenhout
-||
 | 1 | <a href="https://www.qrz.com/db/on4aaq">ON4AAQ</a> | Luc | Dendermonde | X |
 | 1 | <a href="https://www.qrz.com/db/on8gl">ON8GL</a> | Glenn | Sint-Joris-Winge |  |
 | 1 | <a href="https://www.qrz.com/db/on5ce">ON5CE</a> | Mark | Londerzeel-Vb |  |
@@ -76,14 +70,11 @@
 | 1 | <a href="https://www.qrz.com/db/on2bdi">ON2BDI</a> | Bert | Haacht |  |
 | 1 | <a href="https://www.qrz.com/db/on8pu">ON8PU</a> | Patrick | Dendermonde |  |
 | 1 |ON1BBO|Luc|Lebbeke
-||
 | 1 | <a href="https://www.qrz.com/db/on5daq">ON5DAQ</a> | Jonathan | Destelbergen-heusden |  |
 | 1 |ON3AOA|Marc|Lebbeke|X|
 | 1 | <a href="https://www.qrz.com/db/on4cfo">ON4CFO</a> | Wim | Grimbergen |  |
 | 1 |ONL12770|Moorsele
-|||
 | 1 |ON3AWI|Andre|Tisselt
-||
 | 1 | <a href="https://www.qrz.com/db/on2rk">ON2RK</a> | Kris | Dendermonde |  |
 | 1 | <a href="https://www.qrz.com/db/on6yp">ON6YP</a> | Greg | Ieper |  |
 | 1 | <a href="https://www.qrz.com/db/on8ss">ON8SS</a> | Ivan | Hulste |  |
