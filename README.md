@@ -1,7 +1,7 @@
 ## Vriendenronde van ON4AOW / ORAC, De opwijkse radioamateurs !
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
-Uw host [ON6URE](https://on6ure.be) voor [ON4AOW](https://on4aow.club)
+Uw host [ON6URE](https://on6ure.be) voor [ON4AOW](/info)
 
 [Vriendenronde van 2024](2024/)
 
@@ -13,4 +13,3 @@ Uw host [ON6URE](https://on6ure.be) voor [ON4AOW](https://on4aow.club)
 
 [Vriendenronde van 2020](2020/)
 
-Ledenlijst [2024](leden.md)
