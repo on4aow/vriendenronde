@@ -6,11 +6,11 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 ## Statistiek
 
-[ti file=stats.txt type=json raw="true"]
+[Stats van 2024](/stats-2024.md)
 
 ## Log
 
-### **10 April 2024** - Host/Logger ON6URE<br> **Editie 207**
+### **03 April 2024** - Host/Logger ON6URE  **Editie 207**
 
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -40,7 +40,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **26 deelnemers**
 
-### **03 April 2024** - Host/Logger ON6URE<br> **Editie 206**
+### **03 April 2024** - Host/Logger ON6URE  **Editie 206**
 
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -75,7 +75,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **31 deelnemers**
 
-### **27 Maart 2024** - Host/Logger ON6URE<br> **Editie 205**
+### **27 Maart 2024** - Host/Logger ON6URE  **Editie 205**
 
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -107,7 +107,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **28 deelnemers**
 
-### **20 Maart 2024** - Host/Logger ON3URE<br> **Editie 204**
+### **20 Maart 2024** - Host/Logger ON3URE  **Editie 204**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON5AVM** Johan Opwijk ([qrz](https://www.qrz.com/db/on5avm))
@@ -140,7 +140,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **29 deelnemers**
 
-### **13 Maart 2024** - Host/Logger ON3URE<br> **Editie 203**
+### **13 Maart 2024** - Host/Logger ON3URE  **Editie 203**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -176,7 +176,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **32 deelnemers**
 
-### **06 Maart 2024** - Host/Logger ON3URE<br> **Editie 202**
+### **06 Maart 2024** - Host/Logger ON3URE  **Editie 202**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -209,7 +209,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **29 deelnemers**
 
-### **28 February 2024** - Host/Logger ON3URE<br> **Editie 201**
+### **28 February 2024** - Host/Logger ON3URE  **Editie 201**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON3MOD** Modest Aalst ([qrz](https://www.qrz.com/db/on3mod))
@@ -234,7 +234,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **21 deelnemers**
 
-### **21 February 2024** - Host/Logger ON3URE<br> **Editie 200**
+### **21 February 2024** - Host/Logger ON3URE  **Editie 200**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -263,7 +263,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **25 deelnemers**
 
-### **14 February 2024** - Host/Logger ON3URE<br> **Editie 199**
+### **14 February 2024** - Host/Logger ON3URE  **Editie 199**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -285,7 +285,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **18 deelnemers**
 
-### **2 February 2024** - Host/Logger ON3URE<br> **Editie 198**
+### **2 February 2024** - Host/Logger ON3URE  **Editie 198**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -318,7 +318,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **29 deelnemers**
 
-### **31 Januari 2024** - Host/Logger ON3URE<br> **Editie 197**
+### **31 Januari 2024** - Host/Logger ON3URE  **Editie 197**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -344,7 +344,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **22 deelnemers**
 
-### **24 Januari 2024** - Host/Logger ON3URE<br> **Editie 196**
+### **24 Januari 2024** - Host/Logger ON3URE  **Editie 196**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -372,7 +372,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **24 deelnemers**
 
-### **17 Januari 2024** - Host/Logger ON3URE<br> **Editie 195**
+### **17 Januari 2024** - Host/Logger ON3URE  **Editie 195**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -402,7 +402,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **26 deelnemers**
 
-### **10 Januari 2024** - Host/Logger ON3URE<br> **Editie 194**
+### **10 Januari 2024** - Host/Logger ON3URE  **Editie 194**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -437,7 +437,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **31 deelnemers**
 
-### **03 Januari 2024** - Host/Logger ON3URE<br> **Editie 193**
+### **03 Januari 2024** - Host/Logger ON3URE  **Editie 193**
 
 * **ON3URE** Joeri Merchtem (lid) ([qrz](https://www.qrz.com/db/on3ure))
 * **ON4DLX** Etienne Steenhuffel (lid) ([qrz](https://www.qrz.com/db/on4dlx))
@@ -467,4 +467,4 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 **26 deelnemers**
 
-###### logprocessor by on6ure
+###### logprocessor by on3ure
