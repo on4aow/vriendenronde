@@ -13,4 +13,4 @@ Uw host [ON6URE](https://on6ure.be) voor [ON4AOW](https://on4aow.club)
 
 [Vriendenronde van 2020](2020/)
 
-
+Ledenlijst [2024](leden.md)
