@@ -239,7 +239,6 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON7XB** Jozef Oud-Turnhout ([qrz](https://www.qrz.com/db/on7xb))
 * **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
 * **ON7DVJ** Jean-pierre Buggenhout
-
 * **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
 * **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
 * **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
@@ -295,7 +294,6 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
 * **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
 * **ON7DVJ** Jean-pierre Buggenhout
-
 * **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
 * **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
 * **ON8CW** Croes Steenokkerzeel ([qrz](https://www.qrz.com/db/on8cw))
@@ -404,7 +402,6 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
 * **ON7ND** Jozef Lebbeke (lid)
 * **ON7DVJ** Jean-pierre Buggenhout
-
 * **ON7XB** Jozef Oud-Turnhout ([qrz](https://www.qrz.com/db/on7xb))
 * **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
 * **ON8CW** Croes Steenokkerzeel ([qrz](https://www.qrz.com/db/on8cw))
@@ -433,7 +430,6 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
 * **ON3FLA** Guido Mechelen ([qrz](https://www.qrz.com/db/on3fla))
 * **ON7DVJ** Jean-pierre Buggenhout
-
 * **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
 * **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
 * **ON5IB** Peter Denderbelle (lid)  ([qrz](https://www.qrz.com/db/on5ib))
