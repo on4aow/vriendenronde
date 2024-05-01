@@ -6,6 +6,26 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 ## Log
 
 
+### **1 Mei 2024** - Host/Logger ON6URE - **Editie 210**
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON3MOD** Modest Aalst ([qrz](https://www.qrz.com/db/on3mod))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON3EI** Elsie Aalst ([qrz](https://www.qrz.com/db/on3ei))
+* **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
+* **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON3KEV** Kevin Sint-Martens-Lierde ([qrz](https://www.qrz.com/db/on3kev))
+* **ON3OL** Olivier Wambeek-Ternat ([qrz](https://www.qrz.com/db/on3ol))
+* **ON7EN** Jean-marie Dendermonde ([qrz](https://www.qrz.com/db/on7en))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON7DVJ** Jean-pierre Buggenhout
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+
+**17 deelnemers**
+
 ### **24 April 2024** - Host/Logger ON6URE - **Editie 209**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
@@ -36,7 +56,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
 * **ON3LST** Luc Puurs ([qrz](https://www.qrz.com/db/on3lst))
 * **ON3FLA** Guido Mechelen ([qrz](https://www.qrz.com/db/on3fla))
-* **ON7DVJ** Jean 
+* **ON7DVJ** Jean-pierre Buggenhout
 * **ON9SD** Donald Laarne ([qrz](https://www.qrz.com/db/on9sd))
 * **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
 * **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
