@@ -559,3 +559,6 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON4BDM** Bart Bornem ([qrz](https://www.qrz.com/db/on4bdm))
 * **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
 * **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+
+**26 deelnemers**
+
