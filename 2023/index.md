@@ -1447,3 +1447,7 @@ Elke **woensdag**avond vanaf **19h45**op **VHF 145.450 FM**modulatie.
 * **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
 * **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
 * **ON3KEV** Kevin Sint-Martens-Lierde ([qrz](https://www.qrz.com/db/on3kev))
+
+**19 deelnemers**
+
+###### logprocessor by on6ure
