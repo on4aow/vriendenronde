@@ -6,6 +6,37 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 ## Log
 
 
+### **12 Juni 2024** - Host/Logger ON6URE - **Editie 216**
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
+* **ON4CFO** Wim Grimbergen ([qrz](https://www.qrz.com/db/on4cfo))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON3MOD** Modest Aalst ([qrz](https://www.qrz.com/db/on3mod))
+* **ON5NV** Alex Antwerpen-Deurne ([qrz](https://www.qrz.com/db/on5nv))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON3EI** Elsie Aalst ([qrz](https://www.qrz.com/db/on3ei))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON3LST** Luc Puurs ([qrz](https://www.qrz.com/db/on3lst))
+* **ON3FU** Joris Beselare-Zunnebeke ([qrz](https://www.qrz.com/db/on3fu))
+* **ON3FLA** Guido Mechelen ([qrz](https://www.qrz.com/db/on3fla))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON4CBA** Andre Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on4cba))
+* **ON7KRI** Kris Wetteren ([qrz](https://www.qrz.com/db/on7kri))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON3JG** Claude Buggenhout ([qrz](https://www.qrz.com/db/on3jg))
+* **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON3KEV** Kevin Sint-Martens-Lierde ([qrz](https://www.qrz.com/db/on3kev))
+* **ON5RGI** Reginald Zele ([qrz](https://www.qrz.com/db/on5rgi))
+* **ON7ABT** Michel Oostrozebeke ([qrz](https://www.qrz.com/db/on7abt))
+
+**27 deelnemers**
+
 ### **5 Juni 2024** - Host/Logger ON6URE - **Editie 215**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
