@@ -7,6 +7,37 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 
 
+### **7 Augustus 2024** - Host/Logger ON6URE - **Editie 224**
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON2BDI** Bert Haacht ([qrz](https://www.qrz.com/db/on2bdi))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON4CFO** Wim Grimbergen ([qrz](https://www.qrz.com/db/on4cfo))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON3MOD** Modest Aalst ([qrz](https://www.qrz.com/db/on3mod))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON7XY** Roger Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7xy))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON3VRC** Chris Boom ([qrz](https://www.qrz.com/db/on3vrc))
+* **ON7ABT** Michel Oostrozebeke ([qrz](https://www.qrz.com/db/on7abt))
+* **ON8CW** Croes Steenokkerzeel ([qrz](https://www.qrz.com/db/on8cw))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON6JR** Johnny Opwijk (lid)
+* **ON7DE** Eddy Londerzeel ([qrz](https://www.qrz.com/db/on7de))
+* **ON3SCA** Serge Zaventem ([qrz](https://www.qrz.com/db/on3sca))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON5NV** Alex Antwerpen-Deurne ([qrz](https://www.qrz.com/db/on5nv))
+
+**27 deelnemers**
+
 ### **31 Juli 2024** - Host/Logger ON6URE - **Editie 223**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
