@@ -6,6 +6,37 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 ## Log
 
 
+### **18 September 2024** - Host/Logger ON6URE - **Editie 230**
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON3LST** Luc Puurs ([qrz](https://www.qrz.com/db/on3lst))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON3EI** Elsie Aalst ([qrz](https://www.qrz.com/db/on3ei))
+* **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
+* **ON5NV** Alex Antwerpen-Deurne ([qrz](https://www.qrz.com/db/on5nv))
+* **ON3JG** Claude Buggenhout ([qrz](https://www.qrz.com/db/on3jg))
+* **ON7KRI** Kris Wetteren ([qrz](https://www.qrz.com/db/on7kri))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON3MOD** Modest Aalst ([qrz](https://www.qrz.com/db/on3mod))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
+* **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
+* **ON3ONA** Dirk Eeklo ([qrz](https://www.qrz.com/db/on3ona))
+* **ON2BDI** Bert Haacht ([qrz](https://www.qrz.com/db/on2bdi))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON3PVC** Pascal Hekelgem (lid)  ([qrz](https://www.qrz.com/db/on3pvc))
+* **ON6LX** Lex Lochristi-zaffelare ([qrz](https://www.qrz.com/db/on6lx))
+* **ON6UV** Achille Roosdaal
+* **ON5OC** Kris Dendermonde ([qrz](https://www.qrz.com/db/on5oc))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON2TRX** Jan Nijlen ([qrz](https://www.qrz.com/db/on2trx))
+
+**27 deelnemers**
+
 ### **11 September 2024** - Host/Logger ON6URE - **Editie 229**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
