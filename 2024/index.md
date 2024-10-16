@@ -4,6 +4,37 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 [Stats](stats.md)
 
 ## Log
+#
+
+### **16 Oktober 2024** - Host/Logger ON6URE - **Editie 234*
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4CFO** Wim Grimbergen ([qrz](https://www.qrz.com/db/on4cfo))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON8BL** Beni Kapelle-Op-Den-Bos ([qrz](https://www.qrz.com/db/on8bl))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON3LST** Luc Puurs ([qrz](https://www.qrz.com/db/on3lst))
+* **ON8VI** Iwan Bornem ([qrz](https://www.qrz.com/db/on8vi))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON2BDI** Bert Haacht ([qrz](https://www.qrz.com/db/on2bdi))
+* **ON5SEL** Luc Bonheiden ([qrz](https://www.qrz.com/db/on5sel))
+* **ON2ABL** Frans Deinze-zeveren ([qrz](https://www.qrz.com/db/on2abl))
+* **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON7KRI** Kris Wetteren ([qrz](https://www.qrz.com/db/on7kri))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
+* **ON5CE** Mark Londerzeel-Vb ([qrz](https://www.qrz.com/db/on5ce))
+* **ON8JJ** Robert Berendrecht ([qrz](https://www.qrz.com/db/on8jj))
+* **ON3DAF** Christian Westmalle ([qrz](https://www.qrz.com/db/on3daf))
+* **ON3ONA** Dirk Eeklo ([qrz](https://www.qrz.com/db/on3ona))
+* **ON5NV** Alex Antwerpen-Deurne ([qrz](https://www.qrz.com/db/on5nv))
+* **ON7GY** Roger Wambeek (lid)  ([qrz](https://www.qrz.com/db/on7gy))
+
+**26 deelnemers**
 
 ### **9 Oktober 2024** - Host/Logger ON6URE - **Editie 233*
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
