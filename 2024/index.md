@@ -6,6 +6,31 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 ## Log
 #
 
+### **30 Oktober 2024** - Host/Logger ON6URE - **Editie 235*
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON5RZ** Raf Haasdonk ([qrz](https://www.qrz.com/db/on5rz))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
+* **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
+* **ON2BDI** Bert Haacht ([qrz](https://www.qrz.com/db/on2bdi))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON3ECR** Eddy Moortsele ([qrz](https://www.qrz.com/db/on3ecr))
+* **ON8JJ** Robert Berendrecht ([qrz](https://www.qrz.com/db/on8jj))
+* **ON7KRI** Kris Wetteren ([qrz](https://www.qrz.com/db/on7kri))
+* **ON3JG** Claude Buggenhout ([qrz](https://www.qrz.com/db/on3jg))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON3PVC** Pascal Hekelgem (lid)  ([qrz](https://www.qrz.com/db/on3pvc))
+* **ON5CE** Mark Londerzeel-Vb ([qrz](https://www.qrz.com/db/on5ce))
+
+**21 deelnemers**
+
 ### **16 Oktober 2024** - Host/Logger ON6URE - **Editie 234*
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4CFO** Wim Grimbergen ([qrz](https://www.qrz.com/db/on4cfo))
