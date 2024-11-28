@@ -5,6 +5,39 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 ## Log
 
+### **27 November 2024** - Host/Logger ON6URE - **Editie 239**
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON4CFO** Wim Grimbergen ([qrz](https://www.qrz.com/db/on4cfo))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON8BL** Beni Kapelle-Op-Den-Bos ([qrz](https://www.qrz.com/db/on8bl))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON3KEV** Kevin Sint-Martens-Lierde ([qrz](https://www.qrz.com/db/on3kev))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON8JJ** Robert Berendrecht ([qrz](https://www.qrz.com/db/on8jj))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
+* **ON3PVC** Pascal Hekelgem (lid)  ([qrz](https://www.qrz.com/db/on3pvc))
+* **ON6LX** Lex Lochristi-zaffelare ([qrz](https://www.qrz.com/db/on6lx))
+* **ON3DAF** Christian Westmalle ([qrz](https://www.qrz.com/db/on3daf))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON7ABT** Michel Oostrozebeke ([qrz](https://www.qrz.com/db/on7abt))
+* **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
+* **ON5OC** Kris Dendermonde ([qrz](https://www.qrz.com/db/on5oc))
+* **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
+* **ONL13233** Isabel_moorsele 
+
+**29 deelnemers**
+
 ### **20 November 2024** - Host/Logger ON6URE - **Editie 238**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
