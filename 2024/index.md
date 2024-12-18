@@ -29,8 +29,11 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
 * **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
 * **ON4AWW** Willy Sint-Pieters-Leeuw ([qrz](https://www.qrz.com/db/on4aww))
+* **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
+* **ONL13233** Isabel_moorsele 
+* **ONL12739** Dirk Gullegem
 
-**24 deelnemers**
+**27 deelnemers**
 
 ### **11 December 2024** - Host/Logger ON6URE - **Editie 241**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
