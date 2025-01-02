@@ -1,4 +1,4 @@
-## 2024
+## 2025
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
