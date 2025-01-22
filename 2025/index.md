@@ -4,6 +4,38 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 [Stats](stats.md)
 
 ## Log
+### **22 Januari 2025** - Host/Logger ON6URE - **Editie 246**
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON8VI** Iwan Bornem ([qrz](https://www.qrz.com/db/on8vi))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON7KRI** Kris Wetteren ([qrz](https://www.qrz.com/db/on7kri))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON3KEV** Kevin Sint-Martens-Lierde ([qrz](https://www.qrz.com/db/on3kev))
+* **ON8CW** Croes Steenokkerzeel ([qrz](https://www.qrz.com/db/on8cw))
+* **ON2WG** William Sint-Niklaas ([qrz](https://www.qrz.com/db/on2wg))
+* **ON3PVC** Pascal Hekelgem (lid)  ([qrz](https://www.qrz.com/db/on3pvc))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
+* **ON3JG** Claude Buggenhout ([qrz](https://www.qrz.com/db/on3jg))
+* **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
+* **ON9SD** Donald Laarne ([qrz](https://www.qrz.com/db/on9sd))
+* **ON2BDI** Bert Haacht ([qrz](https://www.qrz.com/db/on2bdi))
+* **ON4BDC** Gunther Halle ([qrz](https://www.qrz.com/db/on4bdc))
+* **ON3DAF** Christian Westmalle ([qrz](https://www.qrz.com/db/on3daf))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON8JJ** Robert Berendrecht ([qrz](https://www.qrz.com/db/on8jj))
+* **ON8BDJ** Willy Asse ([qrz](https://www.qrz.com/db/on8bdj))
+* **ON7DVJ** Jean_pierre Buggenhout
+
+**28 deelnemers**
+
 ### **15 Januari 2025** - Host/Logger ON6URE - **Editie 245**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
