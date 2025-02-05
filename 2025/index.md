@@ -4,6 +4,43 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 [Stats](stats.md)
 
 ## Log
+### **5 February 2025** - Host/Logger ON6URE - **Editie 248**
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON7KRI** Kris Wetteren ([qrz](https://www.qrz.com/db/on7kri))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON4CFO** Wim Grimbergen ([qrz](https://www.qrz.com/db/on4cfo))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
+* **ON3LST** Luc Puurs ([qrz](https://www.qrz.com/db/on3lst))
+* **ON1BMR** Raf Temse
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON7DVJ** Jean_pierre Buggenhout
+* **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
+* **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
+* **ON5OC** Kris Dendermonde ([qrz](https://www.qrz.com/db/on5oc))
+* **ON3KEV** Kevin Sint-Martens-Lierde ([qrz](https://www.qrz.com/db/on3kev))
+* **ON2BDI** Bert Haacht ([qrz](https://www.qrz.com/db/on2bdi))
+* **ON4ATA** Raf Adegem ([qrz](https://www.qrz.com/db/on4ata))
+* **ON5DEW** Rudy Erpe ([qrz](https://www.qrz.com/db/on5dew))
+* **ON6UV** Achille Roosdaal
+* **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
+* **ON2WG** William Sint-Niklaas ([qrz](https://www.qrz.com/db/on2wg))
+* **ON2TRX** Jan Nijlen ([qrz](https://www.qrz.com/db/on2trx))
+* **ON3ECR** Eddy Moortsele ([qrz](https://www.qrz.com/db/on3ecr))
+* **ON3CRT** Patrick Laarne-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3crt))
+* **ON6OO** Dirk Wca-On-Bca-An ([qrz](https://www.qrz.com/db/on6oo))
+* **ONL13233** Isabel Moorsele
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+
+**33 deelnemers**
+
 ### **29 Januari 2025** - Host/Logger ON6URE - **Editie 247**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
@@ -134,7 +171,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON7DAN** Daniel Buizingen ([qrz](https://www.qrz.com/db/on7dan))
 * **ON3DAF** Christian Westmalle ([qrz](https://www.qrz.com/db/on3daf))
 * **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
-* **ONL13233** Isabel_moorsele 
+* **ONL13233** Isabel Moorsele
 * **ONL12739** Dirk Gullegem
 
 **18 deelnemers**
@@ -165,7 +202,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
 * **ON4AWW** Willy Sint-Pieters-Leeuw ([qrz](https://www.qrz.com/db/on4aww))
 * **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
-* **ONL13233** Isabel_moorsele 
+* **ONL13233** Isabel Moorsele
 * **ONL12739** Dirk Gullegem
 
 **27 deelnemers**
@@ -201,7 +238,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON3DAF** Christian Westmalle ([qrz](https://www.qrz.com/db/on3daf))
 * **ON3KEV** Kevin Sint-Martens-Lierde ([qrz](https://www.qrz.com/db/on3kev))
 * **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
-* **ONL13233** Isabel_moorsele 
+* **ONL13233** Isabel Moorsele
 * **ON9SD** Donald Laarne ([qrz](https://www.qrz.com/db/on9sd))
 * **ON7DVJ** Jean_pierre Buggenhout
 * **ON3ECR** Eddy Moortsele ([qrz](https://www.qrz.com/db/on3ecr))
@@ -268,7 +305,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
 * **ON5OC** Kris Dendermonde ([qrz](https://www.qrz.com/db/on5oc))
 * **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
-* **ONL13233** Isabel_moorsele 
+* **ONL13233** Isabel Moorsele
 
 **29 deelnemers**
 
