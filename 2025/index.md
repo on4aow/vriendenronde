@@ -4,6 +4,37 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 [Stats](stats.md)
 
 ## Log
+### **30 April 2025** - Host/Logger ON6URE - **Editie 261**
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON4AIO** Ludo Sint-Amands ([qrz](https://www.qrz.com/db/on4aio))
+* **ON4CJG** Jeromie Kuurne ([qrz](https://www.qrz.com/db/on4cjg))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
+* **ONL13233** Isabel Moorsele
+* **ONL12739** Dirk Gullegem
+* **ON3LDC** Lodewijk Heffen ([qrz](https://www.qrz.com/db/on3ldc))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON3ENE** Patrick Lokeren ([qrz](https://www.qrz.com/db/on3ene))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON7OAK** Willy Lochristi-Zeveneken ([qrz](https://www.qrz.com/db/on7oak))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON2DY** Steve Zandhoven ([qrz](https://www.qrz.com/db/on2dy))
+* **ON3KEV** Kevin Sint-Martens-Lierde ([qrz](https://www.qrz.com/db/on3kev))
+* **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
+* **ON4QX** Herman Buggenhout (lid)  ([qrz](https://www.qrz.com/db/on4qx))
+* **ON8CW** Croes Steenokkerzeel ([qrz](https://www.qrz.com/db/on8cw))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON3VRC** Chris Boom ([qrz](https://www.qrz.com/db/on3vrc))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON3MOD** Modest Aalst ([qrz](https://www.qrz.com/db/on3mod))
+
+**27 deelnemers**
+
 ### **30 April 2025** - Host/Logger ON6URE - **Editie 260**
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
