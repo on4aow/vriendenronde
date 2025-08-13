@@ -2,6 +2,34 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **13 Augustus 2025** - Host/Logger ON6URE - **Editie 275*
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+#* **ON5KNT** Rudy Zele 
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON5PU** Paul Turnhout ([qrz](https://www.qrz.com/db/on5pu))
+#* **ON3FW** Freddy Herent 
+* **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
+* **ONL13233** Isabel Moorsele
+* **ON3DDG** Dirk Gullegem ([qrz](https://www.qrz.com/db/on3ddg))
+* **ON3MOD** Modest Aalst ([qrz](https://www.qrz.com/db/on3mod))
+* **ON2ABL** Frans Deinze-zeveren ([qrz](https://www.qrz.com/db/on2abl))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON8JJ** Roberto Berendrecht ([qrz](https://www.qrz.com/db/on8jj))
+* **ON3PVC** Pascal Hekelgem (lid)  ([qrz](https://www.qrz.com/db/on3pvc))
+* **ON4DRP** Dirk Blankenberge-Belge ([qrz](https://www.qrz.com/db/on4drp))
+* **ON7DVJ** Jean_pierre Buggenhout
+* **ON3KEV** Kevin Antwerpen-City ([qrz](https://www.qrz.com/db/on3kev))
+* **ON4JCO** Johan Halle ([qrz](https://www.qrz.com/db/on4jco))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+
+**22 deelnemers**
+
 ### **6 Augustus 2025** - Host/Logger ON6URE - **Editie 274*
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
