@@ -2,6 +2,34 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **17 September 2025** - Host/Logger ON6URE - **Editie 280*
+* **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON7AVL** Luc Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7avl))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON5NV** Alex Antwerpen-Deurne ([qrz](https://www.qrz.com/db/on5nv))
+* **ON4ALS** Steven Antwerp ([qrz](https://www.qrz.com/db/on4als))
+* **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON3MOD** Modest Aalst ([qrz](https://www.qrz.com/db/on3mod))
+* **ON8VR** Chris Boom ([qrz](https://www.qrz.com/db/on8vr))
+* **ON5SEL** Luc Bonheiden ([qrz](https://www.qrz.com/db/on5sel))
+* **ON6EE** Walter Haaltert ([qrz](https://www.qrz.com/db/on6ee))
+* **ON3KOE** Koen Sint-Amands (lid)  ([qrz](https://www.qrz.com/db/on3koe))
+
+**24 deelnemers**
+
 ### **10 September 2025** - Host/Logger ON6URE - **Editie 279*
 * **ON6URE** Joeri Merchtem ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
