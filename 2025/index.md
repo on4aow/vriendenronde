@@ -2,6 +2,35 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **26 November 2025** - Host/Logger ON6URE - **Editie 290*
+* **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON7IM** Robert Opwijk (lid)  ([qrz](https://www.qrz.com/db/on7im))
+* **ON1AEC** Jean-pierre Knokke-Heist ([qrz](https://www.qrz.com/db/on1aec))
+* **ON6WF** Stefan Baasrode-Dmonde (lid)  ([qrz](https://www.qrz.com/db/on6wf))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON4WM** Werner Opwijk ([qrz](https://www.qrz.com/db/on4wm))
+* **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
+* **ON3VO** Peter Asse ([qrz](https://www.qrz.com/db/on3vo))
+* **ON7KRI** Kris Wetteren ([qrz](https://www.qrz.com/db/on7kri))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON3MOD** Modest Aalst (lid)  ([qrz](https://www.qrz.com/db/on3mod))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON8VR** Chris Boom ([qrz](https://www.qrz.com/db/on8vr))
+* **ON3KEV** Kevin Antwerpen-City-Sint-Martens-Lierde-Vlaamse-Ardenne ([qrz](https://www.qrz.com/db/on3kev))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
+
+**25 deelnemers**
+
 ### **19 November 2025** - Host/Logger ON6URE - **Editie 289*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
 * **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
