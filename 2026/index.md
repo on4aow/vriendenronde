@@ -2,10 +2,35 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **14 Januari 2026** - Host/Logger ON6URE - **Editie 297*
+* **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON4HDH** Herman Asse ([qrz](https://www.qrz.com/db/on4hdh))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON3DAF** Christian Westmalle ([qrz](https://www.qrz.com/db/on3daf))
+* **ON3VO** Peter Asse ([qrz](https://www.qrz.com/db/on3vo))
+* **ON3LDC** Lodewijk Heffen ([qrz](https://www.qrz.com/db/on3ldc))
+* **ON3DAL** Dirk Noorderwijk-Herentals ([qrz](https://www.qrz.com/db/on3dal))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON1AEC** Jean-pierre Knokke-Heist ([qrz](https://www.qrz.com/db/on1aec))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON9SD** Donald Laarne ([qrz](https://www.qrz.com/db/on9sd))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON8VI** Iwan Bornem ([qrz](https://www.qrz.com/db/on8vi))
+* **ON3MOD** Modest Aalst (lid)  ([qrz](https://www.qrz.com/db/on3mod))
+* **ON3ECR** Eddy Moortsele ([qrz](https://www.qrz.com/db/on3ecr))
+* **ON8JJ** Roberto Berendrecht ([qrz](https://www.qrz.com/db/on8jj))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+
+**21 deelnemers**
+
 ### **7 Januari 2026** - Host/Logger ON6URE - **Editie 296*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
- * **ON5KNT** Rudy Zele 
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
 * **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
 * **ON4HDH** Herman Asse ([qrz](https://www.qrz.com/db/on4hdh))
 * **ON3LDC** Lodewijk Heffen ([qrz](https://www.qrz.com/db/on3ldc))
@@ -30,7 +55,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON4CLF** Theo Zottegem ([qrz](https://www.qrz.com/db/on4clf))
 * **ON8VR** Chris Boom ([qrz](https://www.qrz.com/db/on8vr))
 
-**25 deelnemers**
+**26 deelnemers**
 
 ### **31 December 2025** - Host/Logger ON6URE - **Editie 295*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
