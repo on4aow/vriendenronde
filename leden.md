@@ -1,8 +1,8 @@
 |CALL|NAAM|GEMEENTE|
 |:---|:---|:---|
+|ON1AHK|Marcel|Opwijk|
 |<a href="https://www.qrz.com/db/on1dgr">ON1DGR</a>|Patrick|Dendermonde|
 |ON1HR|Herman|Zellik|
-|<a href="https://www.qrz.com/db/on8gsn">ON8GSN</a>|Bjorn|Koekelberg|
 |<a href="https://www.qrz.com/db/on2dlt">ON2DLT</a>|Leo|Merchtem|
 |<a href="https://www.qrz.com/db/on2jlb">ON2JLB</a>|Jony|Brussel|
 |<a href="https://www.qrz.com/db/on2rvm">ON2RVM</a>|Rudiger|Bornem|
@@ -11,15 +11,16 @@
 |<a href="https://www.qrz.com/db/on3gep">ON3GEP</a>|Pieter|Haaltert|
 |ON3HE|Freddy|Boom|
 |<a href="https://www.qrz.com/db/on3jtl">ON3JTL</a>|Els|Merchtem|
-|<a href="https://www.qrz.com/db/on3koe">ON3KOE</a>|Koen|Sint-amands|
+|<a href="https://www.qrz.com/db/on3koe">ON3KOE</a>|Koen|Lembeek|
 |<a href="https://www.qrz.com/db/on3mod">ON3MOD</a>|Modest|Aalst|
 |<a href="https://www.qrz.com/db/on3pgb">ON3PGB</a>|Gerrit|Sint niklaas|
-|<a href="https://www.qrz.com/db/on3pvc">ON3PVC</a>|Pascal|Hekelgem|
+|<a href="https://www.qrz.com/db/on3pvc">ON3PVC</a>|Pascal|Hekelgem |
 |<a href="https://www.qrz.com/db/on3stq">ON3STQ</a>|Stefaan|Haaltert|
 |<a href="https://www.qrz.com/db/on3sx">ON3SX</a>|Filip|D'monde appels|
 |<a href="https://www.qrz.com/db/on3tle">ON3TLE</a>|Jurgen|Merchtem|
 |<a href="https://www.qrz.com/db/on3vhl">ON3VHL</a>|Luc|Buggenhout|
 |<a href="https://www.qrz.com/db/on3vk">ON3VK</a>|Robi|Geraardsbergen|
+|<a href="https://www.qrz.com/db/on3vo">ON3VO</a>|Peter|Asse|
 |<a href="https://www.qrz.com/db/on4aaq">ON4AAQ</a>|Luc|Dendermonde|
 |<a href="https://www.qrz.com/db/on4adk">ON4ADK</a>|Eric|Lebbeke|
 |<a href="https://www.qrz.com/db/on4aio">ON4AIO</a>|Ludo|Sint amands|
@@ -29,10 +30,11 @@
 |ON4DMP|Ludy|Buggenhout|
 |<a href="https://www.qrz.com/db/on4dpm">ON4DPM</a>|Daniel|Malderen|
 |<a href="https://www.qrz.com/db/on4hvo">ON4HVO</a>|Harry|Opwijk|
-|<a href="https://www.qrz.com/db/on4it">ON4IT</a>|Dimitri|Herdersem aalst|
+|<a href="https://www.qrz.com/db/on4it">ON4IT</a>|Dimitri|Herdersem  aalst|
 |<a href="https://www.qrz.com/db/on4lm">ON4LM</a>|Marc|Wieze|
 |<a href="https://www.qrz.com/db/on4qx">ON4QX</a>|Herman|Buggenhout|
 |<a href="https://www.qrz.com/db/on4uz">ON4UZ</a>|Albert|St gillis d'monde|
+|<a href="https://www.qrz.com/db/on4wm">ON4WM</a>|Werner|Opwijk|
 |<a href="https://www.qrz.com/db/on4wvk">ON4WVK</a>|Willem|Puurs|
 |<a href="https://www.qrz.com/db/on5avm">ON5AVM</a>|Johan|Opwijk|
 |<a href="https://www.qrz.com/db/on5ib">ON5IB</a>|Peter|Denderbelle|
@@ -51,12 +53,13 @@
 |ON7ND|Jozef|Lebbeke|
 |<a href="https://www.qrz.com/db/on7rw">ON7RW</a>|Stefan|Dendermonde|
 |<a href="https://www.qrz.com/db/on7xy">ON7XY</a>|Roger|Opwijk|
-|<a href="https://www.qrz.com/db/on7zj">ON7ZJ</a>|Davy|Dendermonde|
+|<a href="https://www.qrz.com/db/on7zj">ON7ZJ</a>|Davy|Buggenhout|
+|<a href="https://www.qrz.com/db/on8gsn">ON8GSN</a>|Bjorn|Koekelberg|
 |<a href="https://www.qrz.com/db/on8ma">ON8MA</a>|Georges|Zottegem|
 |<a href="https://www.qrz.com/db/on8rr">ON8RR</a>|Roger|Opwijk|
 |<a href="https://www.qrz.com/db/on9cmg">ON9CMG</a>|Aleksander|Buggenhout|
 |ONL07133|Eddy|Aalst|
 |ONL11710|Leslie|Denderleeuw|
 |ONL11825|Gust|Lebbeke|
-|ONL13459|Werner|Opwijk|
+|ONL13578|Jan|Meldert|
 |PD3LB|Lammert|Lebbeke|
