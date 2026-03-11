@@ -2,7 +2,7 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
-### **4 March 2026** - Host/Logger ON6URE - **Editie 305*
+### **11 March 2026** - Host/Logger ON6URE - **Editie 305*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
 * **ON3VO** Peter Asse (lid)  ([qrz](https://www.qrz.com/db/on3vo))
 * **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
@@ -24,14 +24,14 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON8VR** Chris Boom ([qrz](https://www.qrz.com/db/on8vr))
 * **ON2ABL** Frans Deinze-zeveren ([qrz](https://www.qrz.com/db/on2abl))
 * **ON4CGD** Erwin Zandhoven-Antwerp ([qrz](https://www.qrz.com/db/on4cgd))
-* **ON1AEC** Jean-pierre Knokke-Heist ([qrz](https://www.qrz.com/db/on1aec))
 * **ON7DAN** Daniel Buizingen ([qrz](https://www.qrz.com/db/on7dan))
 * **ON7SU** Peter Letterhoutem ([qrz](https://www.qrz.com/db/on7su))
 * **ON4DPM** Daniel Malderen (lid)  ([qrz](https://www.qrz.com/db/on4dpm))
-* **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
 * **ON1CB** Erwin Overmere ([qrz](https://www.qrz.com/db/on1cb))
 * **ON7DE** Eddy Londerzeel ([qrz](https://www.qrz.com/db/on7de))
 * **ON4HDH** Herman Asse ([qrz](https://www.qrz.com/db/on4hdh))
+* **ON4AIO** Ludo Sint-Amands (lid)  ([qrz](https://www.qrz.com/db/on4aio))
+* **ON3LST** Luc Puurs ([qrz](https://www.qrz.com/db/on3lst))
 
 **29 deelnemers**
 
