@@ -2,6 +2,34 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **8 April 2026** - Host/Logger ON6URE - **Editie 309*
+ON6URE Joeri Merchtem 
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON4HDH** Herman Asse ([qrz](https://www.qrz.com/db/on4hdh))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON6EE** Walter Haaltert ([qrz](https://www.qrz.com/db/on6ee))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON8TX** Brecht Paal-Limburg ([qrz](https://www.qrz.com/db/on8tx))
+* **ON1AEC** Jean-pierre Knokke-Heist ([qrz](https://www.qrz.com/db/on1aec))
+* **ON3MOD** Modest Aalst (lid)  ([qrz](https://www.qrz.com/db/on3mod))
+* **ON6RJ** Jan Holsbeek ([qrz](https://www.qrz.com/db/on6rj))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON8VR** Chris Boom ([qrz](https://www.qrz.com/db/on8vr))
+* **ON3ADN** Alex Heverlee ([qrz](https://www.qrz.com/db/on3adn))
+* **ON3LST** Luc Puurs ([qrz](https://www.qrz.com/db/on3lst))
+* **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
+* **ONL13233** Isabel Moorsele
+* **ON5SEL** Luc Bonheiden ([qrz](https://www.qrz.com/db/on5sel))
+* **ON8BDJ** Willy Asse ([qrz](https://www.qrz.com/db/on8bdj))
+
+**23 deelnemers**
+
 ### **1 April 2026** - Host/Logger ON6URE - **Editie 308*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
 * **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
