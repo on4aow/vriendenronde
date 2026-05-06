@@ -2,6 +2,35 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **6 May 2026** - Host/Logger ON6URE - **Editie 313*
+* **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON5KNT** Rudy Zele ([qrz](https://www.qrz.com/db/on5knt))
+* **ON4DPM** Daniel Malderen (lid)  ([qrz](https://www.qrz.com/db/on4dpm))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON1AEC** Jean-pierre Knokke-Heist ([qrz](https://www.qrz.com/db/on1aec))
+* **ON8VR** Chris Boom ([qrz](https://www.qrz.com/db/on8vr))
+* **ON4HDH** Herman Asse ([qrz](https://www.qrz.com/db/on4hdh))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON2DY** Steve Zandhoven ([qrz](https://www.qrz.com/db/on2dy))
+* **ON3MOD** Modest Aalst (lid)  ([qrz](https://www.qrz.com/db/on3mod))
+* **ON3PV** Patrick Tisselt ([qrz](https://www.qrz.com/db/on3pv))
+* **ON4CGC** Huvaere Meulebeke ([qrz](https://www.qrz.com/db/on4cgc))
+* **ON7KRI** Kris Wetteren ([qrz](https://www.qrz.com/db/on7kri))
+* **ON2LVC** Luc Buggenhout ([qrz](https://www.qrz.com/db/on2lvc))
+* **ON6LC** Louis Meise ([qrz](https://www.qrz.com/db/on6lc))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON7DAN** Daniel Buizingen ([qrz](https://www.qrz.com/db/on7dan))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON3KEV** Kevin Antwerpen-City-Sint-Martens-Lierde-Vlaamse-Ardenne ([qrz](https://www.qrz.com/db/on3kev))
+* **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
+* **ONL13233** Isabel Moorsele
+* **ON4QX** Herman Buggenhout (lid)  ([qrz](https://www.qrz.com/db/on4qx))
+
+**25 deelnemers**
+
 ### **29 April 2026** - Host/Logger ON6URE - **Editie 312*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
 * **ON4HDH** Herman Asse ([qrz](https://www.qrz.com/db/on4hdh))
