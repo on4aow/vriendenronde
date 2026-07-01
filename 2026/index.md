@@ -2,6 +2,33 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **1 July 2026** - Host/Logger ON6URE - **Editie 321*
+* **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON1AEC** Jean-pierre Knokke-Heist ([qrz](https://www.qrz.com/db/on1aec))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON2RVM** Rudiger Bornem (lid)  ([qrz](https://www.qrz.com/db/on2rvm))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON9RA** André Willebroek ([qrz](https://www.qrz.com/db/on9ra))
+* **ON2GIR** Gilbert De-Panne ([qrz](https://www.qrz.com/db/on2gir))
+* **ON8CW** Croes Steenokkerzeel ([qrz](https://www.qrz.com/db/on8cw))
+* **ON3VO** Peter Asse (lid)  ([qrz](https://www.qrz.com/db/on3vo))
+* **ON7DE** Eddy Londerzeel ([qrz](https://www.qrz.com/db/on7de))
+* **ON3KEV** Kevin Antwerpen-City-Sint-Martens-Lierde-Vlaamse-Ardenne ([qrz](https://www.qrz.com/db/on3kev))
+* **ON3ADN** Alex Heverlee ([qrz](https://www.qrz.com/db/on3adn))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON3MOD** Modest Aalst (lid)  ([qrz](https://www.qrz.com/db/on3mod))
+* **ON3PHP** Marc Maldegem ([qrz](https://www.qrz.com/db/on3php))
+* **ON3MVC** Christ Moorsele ([qrz](https://www.qrz.com/db/on3mvc))
+* **ONL13233** Isabel Moorsele
+* **ON3LST** Luc Puurs ([qrz](https://www.qrz.com/db/on3lst))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON6RJ** Jan Holsbeek ([qrz](https://www.qrz.com/db/on6rj))
+
+**23 deelnemers**
+
 ### **24 June 2026** - Host/Logger ON6URE - **Editie 320*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
 * **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
@@ -58,7 +85,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON3EMD** Eddy Leest ([qrz](https://www.qrz.com/db/on3emd))
 * **ON1XX** Jozef Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on1xx))
 * **ON1DGR** Patrick Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on1dgr))
-* **ON3PVC** Pascal Hekelgem (lid)  ([qrz](https://www.qrz.com/db/on3pvc))
+* **ON3PVC** Pascal Hekelgem (lid)
 
 **28 deelnemers**
 
@@ -124,7 +151,7 @@ Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 * **ON7ND** Jozef Lebbeke (lid)
 * **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
 * **ON8VR** Chris Boom ([qrz](https://www.qrz.com/db/on8vr))
-* **ON6VDS** Rudy Deinze ([qrz](https://www.qrz.com/db/on6vds))
+* **ON6VDS** Rudy Deinze
 * **ON7DVJ** Jean_pierre Buggenhout
 * **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
 * **ON3JG** Claude Buggenhout ([qrz](https://www.qrz.com/db/on3jg))
