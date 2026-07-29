@@ -2,6 +2,33 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **29 July 2026** - Host/Logger ON6URE - **Editie 325*
+* **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
+* **ON6WJ** Jos Dendermonde (lid)  ([qrz](https://www.qrz.com/db/on6wj))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON3MOD** Modest Aalst (lid)  ([qrz](https://www.qrz.com/db/on3mod))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON7COB** Koen Asse (lid)  ([qrz](https://www.qrz.com/db/on7cob))
+* **ON1BN** Christiaan Heist-Op-Den-Berg ([qrz](https://www.qrz.com/db/on1bn))
+* **ON4HDH** Herman Asse ([qrz](https://www.qrz.com/db/on4hdh))
+* **ON3PH** Henri Wemmel ([qrz](https://www.qrz.com/db/on3ph))
+* **ON5AVM** Johan Opwijk (lid)  ([qrz](https://www.qrz.com/db/on5avm))
+* **ON3FW** Freddy Herent ([qrz](https://www.qrz.com/db/on3fw))
+* **ON3VO** Peter Asse (lid)  ([qrz](https://www.qrz.com/db/on3vo))
+* **ON4PYL** Erich Temse ([qrz](https://www.qrz.com/db/on4pyl))
+* **ON8WKL** Koen Blaasveld
+* **ON8KEV** Van Antwerpen-City-Sint-Martens-Lierde-Vlaamse-Ardenne ([qrz](https://www.qrz.com/db/on8kev))
+* **ON4LX** Luc Deinze ([qrz](https://www.qrz.com/db/on4lx))
+* **ON4CFO** Wim Grimbergen ([qrz](https://www.qrz.com/db/on4cfo))
+* **ON3EF** Filip Antwerp ([qrz](https://www.qrz.com/db/on3ef))
+* **ON7VR** Edward Tongeren ([qrz](https://www.qrz.com/db/on7vr))
+* **ON8VR** Chris Boom ([qrz](https://www.qrz.com/db/on8vr))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON9PK** Koen Hove-Antwerp ([qrz](https://www.qrz.com/db/on9pk))
+
+**23 deelnemers**
+
 ### **22 July 2026** - Host/Logger ON6URE - **Editie 324*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
 * **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
