@@ -2,6 +2,33 @@
 Elke **woensdag** avond vanaf **19h45** op **VHF 145.450 FM** modulatie.
 
 [Stats](stats.md)
+### **12 Augustus 2026** - Host/Logger ON6URE - **Editie 327*
+* **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
+* **ON4DLX** Etienne Steenhuffel (lid)  ([qrz](https://www.qrz.com/db/on4dlx))
+* **ON4HDH** Herman Asse ([qrz](https://www.qrz.com/db/on4hdh))
+* **ON3PH** Henri Wemmel ([qrz](https://www.qrz.com/db/on3ph))
+* **ON7ND** Jozef Lebbeke (lid)
+* **ON3TNT** Marnik Eeklo ([qrz](https://www.qrz.com/db/on3tnt))
+* **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
+* **ON8CW** Croes Steenokkerzeel ([qrz](https://www.qrz.com/db/on8cw))
+* **ON3LBU** Luc Deurne-Antwerpen ([qrz](https://www.qrz.com/db/on3lbu))
+* **ON7GY** Roger Wambeek (lid)  ([qrz](https://www.qrz.com/db/on7gy))
+* **ON3JA** Jo Oordegem ([qrz](https://www.qrz.com/db/on3ja))
+* **ON3VO** Peter Asse (lid)  ([qrz](https://www.qrz.com/db/on3vo))
+* **ON3SCA** Serge Zaventem ([qrz](https://www.qrz.com/db/on3sca))
+* **ON3JW** Johan Bertem
+* **ON3ZEP** Edwin Wielsbeke ([qrz](https://www.qrz.com/db/on3zep))
+* **ON3MOD** Modest Aalst (lid)  ([qrz](https://www.qrz.com/db/on3mod))
+* **ON1GV** Guido Mechelen ([qrz](https://www.qrz.com/db/on1gv))
+* **ON8JJ** Roberto Berendrecht ([qrz](https://www.qrz.com/db/on8jj))
+* **ON4CGC** Huvaere Meulebeke ([qrz](https://www.qrz.com/db/on4cgc))
+* **ON4AIM** Aime Oostende ([qrz](https://www.qrz.com/db/on4aim))
+* **ON8KEV** Van Antwerpen-City-Sint-Martens-Lierde-Vlaamse-Ardenne ([qrz](https://www.qrz.com/db/on8kev))
+* **ON4BHL** Lieven Sint
+* **ON3EMD** Eddy Leest ([qrz](https://www.qrz.com/db/on3emd))
+
+**23 deelnemers**
+
 ### **5 Augustus 2026** - Host/Logger ON6URE - **Editie 326*
 * **ON6URE** Joeri Merchtem (lid)  ([qrz](https://www.qrz.com/db/on6ure))
 * **ON3EC** Peter Haaltert-Oost-Vlaanderen ([qrz](https://www.qrz.com/db/on3ec))
